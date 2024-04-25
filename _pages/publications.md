@@ -17,4 +17,4 @@ Yingnan Liu, Yingtian Zou, Rui Qiao, Fusheng Liu, Mong Li Lee, Wynne Hsu
 
 **Towards Robust Out-of-Distribution Generalization Bounds via Sharpness (ICLR 2024 Spotlight)**
 
-Yingtian Zou, Kenji Kawaguchi, Yingnan Liu, Jiashuo Liu, Mong-Li Lee, Wynne Hsu 
+Yingtian Zou, Kenji Kawaguchi, Yingnan Liu, Jiashuo Liu, Mong Li Lee, Wynne Hsu 
