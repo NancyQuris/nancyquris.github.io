@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yingnan Liu"
+title                    : "Yingnan Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Yingnan Liu"
 description              : &description "personal description"
