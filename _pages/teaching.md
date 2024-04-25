@@ -3,6 +3,9 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
 
 {% include base_path %}
@@ -14,3 +17,4 @@ author_profile: true
 **CS2105: Introduction to Computer Network**, Spring 2021, Spring 2020
 
 **CS3244: Machine Learning**, Fall 2020
+
