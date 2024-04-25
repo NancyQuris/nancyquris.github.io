@@ -111,24 +111,9 @@ blockquote {
 
 /* links */
 
-a:link {
-  color: #008000;
+a {
+  color: #00800;
    text-decoration: none;
-}
-
-/* visited link */
-a:visited {
-  color: 005900;
-}
-
-/* mouse over link */
-a:hover {
-   outline: 0;
-}
-
-/* selected link */
-a:active {
-   outline: 0;
 }
 
 // a {
