@@ -25,7 +25,7 @@ author:
   name             : "Yingnan Liu"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : ""
+  # location         : ""
   employer         : "National University of Singapore"
   uri              : # URL
   email            : "liu.yingnan@u.nus.edu" 
