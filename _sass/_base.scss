@@ -111,16 +111,40 @@ blockquote {
 
 /* links */
 
-a {
-  &:focus {
-    @extend %tab-focus;
-  }
-
-  &:hover,
-  &:active {
-    outline: 0;
-  }
+a:link {
+  color: #008000;
+   text-decoration: none;
 }
+
+/* visited link */
+a:visited {
+  color: 005900;
+}
+
+/* mouse over link */
+a:hover {
+   outline: 0;
+}
+
+/* selected link */
+a:active {
+   outline: 0;
+}
+
+// a {
+//   &:focus {
+//     @extend %tab-focus;
+//     text-decoration: none;
+   
+//   }
+
+//   &:hover,
+//   &:active {
+//     outline: 0;
+//     text-decoration: none;
+//     color: #008000;
+//   }
+// }
 
 /* code */
 
