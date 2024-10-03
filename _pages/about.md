@@ -17,7 +17,7 @@ I received my Bachelor's degree in Computer Science from the School of Computing
 
 **Identifying who are unlikely to benefit from total knee arthroplasty using machine learning models**
 
-Xiaodi Liu*, Yingnan Liu*, Mong Li Lee, Wynne Hsu, Ming Han Lincoln Liow
+Xiaodi Liu\*, Yingnan Liu\*, Mong Li Lee, Wynne Hsu, Ming Han Lincoln Liow
 
 In _npj Digital Medicine 7 (2024)_
 
