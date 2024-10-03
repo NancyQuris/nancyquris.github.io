@@ -13,11 +13,22 @@ I received my Bachelor's degree in Computer Science from the School of Computing
 
 
 ## Publications 
+(* indicates equal contribution)
 
-**Cross-Domain Feature Augmentation for Domain Generalization (IJCAI 2024)** 
+**Identifying who are unlikely to benefit from total knee arthroplasty using machine learning models**
+
+Xiaodi Liu*, Yingnan Liu*, Mong Li Lee, Wynne Hsu, Ming Han Lincoln Liow
+
+In _npj Digital Medicine 7 (2024)_
+
+**Cross-Domain Feature Augmentation for Domain Generalization** 
 
 Yingnan Liu, Yingtian Zou, Rui Qiao, Fusheng Liu, Mong Li Lee, Wynne Hsu 
 
-**Towards Robust Out-of-Distribution Generalization Bounds via Sharpness (ICLR 2024 Spotlight)**
+In _International Joint Conference on Artificial Intelligence (IJCAI), 2024_
+
+**Towards Robust Out-of-Distribution Generalization Bounds via Sharpness**
 
 Yingtian Zou, Kenji Kawaguchi, Yingnan Liu, Jiashuo Liu, Mong Li Lee, Wynne Hsu 
+
+In _International Conference on Learning Representation (ICLR), Spotlight Top 5%, 2024_
