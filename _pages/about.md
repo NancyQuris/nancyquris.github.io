@@ -15,6 +15,12 @@ I received my Bachelor's degree in Computer Science from the School of Computing
 ## Publications 
 (* indicates equal contribution)
 
+**Test-Time Adaptation by Causal Trimming**
+
+Yingnan Liu, Rui Qiao, Mong Li Lee, Wynne Hsu
+
+In _Neural Information Processing Systems (NeurIPS), 2025_
+
 **Cross-Domain Feature Augmentation for Domain Generalization** 
 
 Yingnan Liu, Yingtian Zou, Rui Qiao, Fusheng Liu, Mong Li Lee, Wynne Hsu 
@@ -35,7 +41,7 @@ In _International Conference on Learning Representation (ICLR), Spotlight Top 5%
 
 
 ## Academic Service
-Reviewer for ICLR 2025 
+Reviewer for ICLR 2025, 2026; ICML PUT workshop 2025   
 
 ## Teaching 
 Teaching assistant for 
