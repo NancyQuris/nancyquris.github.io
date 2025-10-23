@@ -7,37 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. student at the School of Computing, National University of Singapore. I am advised by Prof [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Prof [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). My research interests lie in out-of-distribution generalization and AI for healthcare. 
+Hello! I am a Ph.D. student at School of Computing, National University of Singapore. I am advised by Prof [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Prof [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). My research interests lie in generalization/adaptation under distribution shift and AI for healthcare. 
 
-I received my Bachelor's degree in Computer Science from the School of Computing, National University of Singapore in 2021. My thesis was advised by Prof [Zhiyong Huang](https://www.comp.nus.edu.sg/~huangzy/). 
+I received my Bachelor's degree in Computer Science from School of Computing, National University of Singapore in 2021. My thesis was advised by Prof [Zhiyong Huang](https://www.comp.nus.edu.sg/~huangzy/). 
 
 
 ## Publications 
 (* indicates equal contribution)
 
-**Test-Time Adaptation by Causal Trimming**
+**Test-Time Adaptation by Causal Trimming** 
 
 Yingnan Liu, Rui Qiao, Mong Li Lee, Wynne Hsu
 
-In _Neural Information Processing Systems (NeurIPS), 2025_
+In _Neural Information Processing Systems (NeurIPS)_, 2025
 
 **Cross-Domain Feature Augmentation for Domain Generalization** 
 
 Yingnan Liu, Yingtian Zou, Rui Qiao, Fusheng Liu, Mong Li Lee, Wynne Hsu 
 
-In _International Joint Conference on Artificial Intelligence (IJCAI), 2024_
+In _International Joint Conference on Artificial Intelligence (IJCAI)_, 2024
 
 **Identifying who are unlikely to benefit from total knee arthroplasty using machine learning models**
 
 Xiaodi Liu\*, Yingnan Liu\*, Mong Li Lee, Wynne Hsu, Ming Han Lincoln Liow
 
-In _npj Digital Medicine 7 (2024)_
+In _npj Digital Medicine_, 2024
 
 **Towards Robust Out-of-Distribution Generalization Bounds via Sharpness**
 
 Yingtian Zou, Kenji Kawaguchi, Yingnan Liu, Jiashuo Liu, Mong Li Lee, Wynne Hsu 
 
-In _International Conference on Learning Representation (ICLR), Spotlight Top 5%, 2024_
+In _International Conference on Learning Representation (ICLR)_, 2024 (Spotlight Top 5%)
 
 
 ## Academic Service
