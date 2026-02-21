@@ -45,7 +45,7 @@ Xiaodi Liu\*, Yingnan Liu\*, Mong Li Lee, Wynne Hsu, Ming Han Lincoln Liow
 
 In _npj Digital Medicine_, 2024
 
-\[[paper](https://www.nature.com/articles/s41746-024-01265-8)\]\[[code](https://github.com/NancyQuris/OAKneeML)\]\[[poster](https://github.com/NancyQuris/OAKneeML/blob/main/poster.pdf)\]\[[author reply](https://www.nature.com/articles/s41746-026-02458-z)\]
+\[[paper](https://www.nature.com/articles/s41746-024-01265-8)\]\[[code](https://github.com/NancyQuris/OAKneeML)\]\[[poster](https://github.com/NancyQuris/OAKneeML/blob/main/poster.pdf)\]\[[reply to matter arising](https://www.nature.com/articles/s41746-026-02458-z)\]
 
 **Towards Robust Out-of-Distribution Generalization Bounds via Sharpness**
 
