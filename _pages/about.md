@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">
-Hello! I am a PhD student at the School of Computing, National University of Singapore (NUS). I am advised by Prof <a href='https://www.comp.nus.edu.sg/~whsu/'>Wynne Hsu</a> and Prof <a href='https://www.comp.nus.edu.sg/~leeml'>Mong Li Lee</a>. I am passionate about developing <b>robust models that generalize and adapt to out-of-distribution data</b>, and leveraging AI to <b>solve healthcare challenges with real-world clinical data</b>. 
+Hello! I am a PhD student at the School of Computing, National University of Singapore (NUS), advised by Prof <a href='https://www.comp.nus.edu.sg/~whsu/'>Wynne Hsu</a> and Prof <a href='https://www.comp.nus.edu.sg/~leeml'>Mong Li Lee</a>. I am passionate about developing <b>robust models that generalize and adapt to out-of-distribution data</b>, and leveraging AI to <b>solve healthcare challenges with real-world clinical data</b>. 
 </p>
 
 <p align="justify">
