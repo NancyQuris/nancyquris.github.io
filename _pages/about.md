@@ -6,11 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <p align="justify">
 Hello! I am a PhD student at the School of Computing, National University of Singapore (NUS). I am advised by Prof <a href='https://www.comp.nus.edu.sg/~whsu/'>Wynne Hsu</a> and Prof <a href='https://www.comp.nus.edu.sg/~leeml'>Mong Li Lee</a>. I am passionate about developing robust models that generalize and adapt to out-of-distribution data, and leveraging AI to solve healthcare challenges with real-world clinical data. 
-<br>
+</p>
+
+<p align="justify">
 Before starting my PhD, I received my Bachelor’s degree in Computer Science from NUS in 2021. My thesis was supervised by Prof <a href='https://www.comp.nus.edu.sg/~huangzy'>Zhiyong Huang</a>.
-<br>
+</p>
+
+<p align="justify">
 I am always open to research inquiries, potential collaborations, or a friendly chat. Welcome to reach out via <a href='mailto:liu.yingnan@u.nus.edu'>email</a>.
 </p>
 
