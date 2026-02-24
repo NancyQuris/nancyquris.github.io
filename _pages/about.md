@@ -59,7 +59,7 @@ In _International Conference on Learning Representation (ICLR)_, 2024 (Spotlight
 ## Academic Service
 Reviewer for 
 - ICLR 2025, 2026
-- Workshop on Test-Time Adaptation/Updates at ICML 2025, ICLR 2026
+- Workshop on Test-Time Updates at ICML 2025, ICLR 2026
 
 ## Teaching 
 Teaching assistant for 
