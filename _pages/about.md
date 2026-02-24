@@ -16,7 +16,7 @@ Before starting my PhD, I received my Bachelor’s degree in Computer Science fr
 </p>
 
 <p align="justify">
-I am always open to research inquiries and potential collaborations. Welcome to reach out via <a href='mailto:liu.yingnan@u.nus.edu'>email</a>.
+I welcome inquiries regarding research and potential collaborations. You can reach me via <a href='mailto:liu.yingnan@u.nus.edu'>email</a>.
 </p>
 
 ## Publications 
